@@ -100,8 +100,8 @@ Apri `notebooks/Progetto_1_Brent.ipynb` in Jupyter o Google Colab ed esegui tutt
 
 ### Opzione 2: script
 ```bash
-git clone <url-del-repository>
-cd brent-arma-garch-var
+git clone https://github.com/Lorenzoolgiati/Python-projects.git
+cd Python-projects/brent-arma-garch-var
 python -m venv venv
 source venv/bin/activate          # su Windows: venv\Scripts\activate
 pip install -r requirements.txt
